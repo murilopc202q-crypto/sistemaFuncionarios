@@ -1,4 +1,4 @@
-package scr.funcionarios;
+package src.funcionarios;
 
 public class Funcionario {
     private String nome;
