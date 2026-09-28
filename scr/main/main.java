@@ -1,6 +1,6 @@
-package scr.main;
+package src.main;
 
-import scr.funcionarios.Funcionario;
+import src.funcionarios.Funcionario;
 
 public class main {
     public static void main(String[] args) {
